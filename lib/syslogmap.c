@@ -39,6 +39,7 @@ static char svnid[] = "$Id: syslogmap.c 167 2014-09-30 10:27:26Z eckertb $";
 #include <syslog.h>
 
 #include "rmslib.h"
+#include <string.h>
 
 /***
  *  mappriority(priority)
