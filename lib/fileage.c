@@ -36,6 +36,7 @@ static char svnid[] = "$Id: fileage.c 171 2014-10-19 10:00:22Z eckertb $";
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 #include <math.h>
 #include <stdint.h>
 #include <endian.h>
